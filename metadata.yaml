@@ -1,0 +1,50 @@
+_repo: The-Moon-and-Sixpence_222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, Somerset
+    - Maugham, William Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: "The Moon and Sixpence is a novel by W Somerset Maugham first published\
+  \ in 1919. It is told in episodic form by a first-person narrator, in a series of\
+  \ glimpses into the mind and soul of the central character Charles Strickland, a\
+  \ middle-aged English stockbroker, who abandons his wife and children abruptly to\
+  \ pursue his desire to become an artist. The story is in part based on the life\
+  \ of the painter Paul Gauguin.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1995-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '222'
+  wikidata: Q1792726
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Tahiti (French Polynesia : Island) -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: The Moon and Sixpence
+url: http://www.gutenberg.org/ebooks/222
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Envo%C3%BBt%C3%A9
+- https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E5%92%8C%E5%85%AD%E4%BE%BF%E5%A3%AB
+- https://ja.wikipedia.org/wiki/%E6%9C%88%E3%81%A8%E5%85%AD%E3%83%9A%E3%83%B3%E3%82%B9
+- https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87_%D9%88_%D8%B4%D8%B4_%D9%BE%D8%B4%DB%8C%D8%B2
+- https://de.wikipedia.org/wiki/Silbermond_und_Kupferm%C3%BCnze
+- https://en.wikipedia.org/wiki/The_Moon_and_Sixpence
+- https://es.wikipedia.org/wiki/La_Luna_y_seis_peniques
+- https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D6%82%D5%BD%D5%AB%D5%B6%D5%A8_%D6%87_%D5%BE%D5%A5%D6%81%D5%BA%D5%A5%D5%B6%D5%BD%D5%A1%D5%B6%D5%B8%D6%81%D5%A8
+- https://it.wikipedia.org/wiki/La_luna_e_sei_soldi
+- https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BD%D0%B0_%D0%B8_%D0%B3%D1%80%D0%BE%D1%88
+- https://tr.wikipedia.org/wiki/Ay_ve_Alt%C4%B1para
